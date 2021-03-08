@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.A{
+    width: 480px;
+    height: 5%;
+    border: black solid;
+}
+.sec{
+    width: 480px;
+    height: 385px;
+    border: black solid;
+}
+.Z{
+    width: 467px;
+    height: 75px;
+    border: solid black;
+    margin-left: 5px;
+    margin-top: 5px;
+        background-color: blueviolet;
+
+}
+
+.B div{
+    width: 160px;
+    height: 265px;
+    border: black solid;
+   margin: 4px;
+  
+}
+.B {
+        display: flex;
+}
+.I{
+background-color: coral;
+}
+
+.Y{
+  background-color: green;
+}
+.V{
+  background-color: orange;
+}
